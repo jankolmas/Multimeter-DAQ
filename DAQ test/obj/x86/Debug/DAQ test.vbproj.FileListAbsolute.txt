@@ -1,0 +1,14 @@
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\bin\Debug\DAQ test.exe
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\bin\Debug\DAQ test.pdb
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\bin\Debug\DAQ test.xml
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\DAQ_test.Form1.resources
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\DAQ_test.Resources.resources
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\DAQ test.exe
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\DAQ test.xml
+c:\users\jan\documents\visual studio 2010\Projects\DAQ test\DAQ test\obj\x86\Debug\DAQ test.pdb
+C:\Users\Jan\Documents\GitHub\Multimeter-DAQ\DAQ test\obj\x86\Debug\DAQ test.exe
+C:\Users\Jan\Documents\GitHub\Multimeter-DAQ\DAQ test\obj\x86\Debug\DAQ test.xml
+C:\Users\Jan\Documents\GitHub\Multimeter-DAQ\DAQ test\obj\x86\Debug\DAQ test.pdb
